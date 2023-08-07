@@ -1,6 +1,8 @@
 # Performance-Analysis-of-CPU-Scheduling-Priority-SRT-Algorithm
 In this project, there are two algorithms(Priority &amp; SRT) and we had implemented two modified algorithms to overcome from the problem of starvation of processes.
+
 This system provides different types of services to the user.
+
 User should be able to input required inputs according to the algorithm:
    + Process name, Arrival time, Burst time, and Priority in Priority Scheduling Algorithm.
    + Process name, Arrival time, and Burst time in shortest remaining time first.
